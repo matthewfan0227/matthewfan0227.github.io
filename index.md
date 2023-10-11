@@ -37,4 +37,6 @@ I am currently engaged in research on data-driven micro-driving behavior modelin
 
 ## News and Updates
 
-- **Oct 17-18 2023：** I will be attending the 29th ITS World Congress in Suzhou, China. I have the honor of giving a presentation in the session titled "Connected, Cooperative and Automated Mobility & Smart City." Join me in ROOM 11 from 2:00-5:00pm on October 18th to explore and discuss innovative insights in this field!
+- **Oct 17-18 2023** I will be attending the 29th ITS World Congress in Suzhou, China. I have the honor of giving a presentation in the session titled "Connected, Cooperative and Automated Mobility & Smart City." Join me in ROOM 11 from 2:00-5:00pm on October 18th to explore and discuss innovative insights in this field!
+- **Oct 4** Completed a 96km outdoor cycling around Laoshan Mountain.
+- **Sep 2023** Completed the campus mini marathon (7km) in 50min.
