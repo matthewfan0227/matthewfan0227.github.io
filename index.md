@@ -4,22 +4,20 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+Here is **Zhengwen Fan**.
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am currently in my third year of master's studies, specializing in **Traffic Information Engineering and Control** at Nanjing University of Science and Technology. My research is centered around Connected and Automated Vehicles (CAVs), traffic behavior modeling, and intelligent traffic systems. As I am eager to delve deeper into these areas, I am actively seeking a Ph.D. position in related fields. You can learn more about my academic and professional journey in [my CV](https://matthewfan0227.github.io/file/Zhengwen_Fan_CV.pdf).
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Ph.D. to start in Fall 2024. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2016 - June 2020:** Wuhan University of Science and Technology (B.Eng.)
+- **Sep 2018 - July 2019:** University of California, Riverside (Exchange Student)
+- **Sep 2021 - April 2024:** Nanjing University of Science and Technology (M.Sc.)
+
 
 <br>
 
@@ -27,11 +25,11 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Connected and Automated Vehicles (CAVs)
+- Traffic Behavior Modeling
+- Intelligent Traffic Systems (ITS)
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I am currently engaged in research on data-driven micro-driving behavior modeling and analysis, specifically focusing on **lane-changing**. I am committed to facilitating the sustainable and efficient evolution of mobility systems, leveraging the significant potential of CAVs and insights from traffic big data.
 
 <br>
 
@@ -39,10 +37,4 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Oct 17-18 2023：** I will be attending the 29th ITS World Congress in Suzhou, China. I have the honor of giving a presentation in the session titled "Connected, Cooperative and Automated Mobility & Smart City." Join me in ROOM 11 from 2:00-5:00pm on October 18th to explore and discuss innovative insights in this field!
