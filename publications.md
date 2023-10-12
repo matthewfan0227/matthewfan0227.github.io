@@ -8,8 +8,7 @@ Latest Update: Oct 11, 2023
 
 ## Conference Paper
 
--  **Fan, Z.**, He, S., Zhang, X., & Liu, Y. (2023, October 16-20). A REVIEW OF DATA-DRIVEN LANE-CHANGING DECISION MODELING FOR CONNECTED AND AUTOMATED VEHICLES. The 29th ITS World Congress,
-Suzhou, China.
+-  **Fan, Z.**, He, S., Zhang, X., & Liu, Y. (2023, October 16-20). [A REVIEW OF DATA-DRIVEN LANE-CHANGING DECISION MODELING FOR CONNECTED AND AUTOMATED VEHICLES.](https://matthewfan0227.github.io/file/review.pdf). [Poster](https://matthewfan0227.github.io/file/Poster.pdf). The 29th ITS World Congress, Suzhou, China.
 
 -  Zhang, X., He, S., **Fan, Z.**, Liu, Y., & Qi Y.(2023, September 8-11). A Siamese Neural Network-based Method to Recognize the Abnormal Driving Behaviors for Autonomous Vehicles. The 3rd International Conference on Autonomous Unmaned Systems.
 
